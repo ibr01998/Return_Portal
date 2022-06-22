@@ -1,0 +1,26 @@
+<?php
+
+return[
+    'welcome' => 'Welkome op ons Retourportaal',
+    'lang' => 'NL',
+    'validation' => 'VUL DE GEGEVENS VAN UW BESTELLING IN',
+    'product_selection'=> 'Wat zou je willen retourneren?',
+    'reason' => 'Wat is de reden voor uw retour?',
+    'return_type' => 'Hoe wilt uw het terug sturen?',
+    'quantity' => 'Hoeveel zou je willen retouren',
+    'mismatch' => 'de gegeven order komt niet overeen met de gegeven postcode',
+    'odernr_error' => 'Er is geen Bestelling die overeenkomt met jou Bestelling nr.',
+    'late_error' => 'Your order is not eligible for return',
+    'shipping_error' => "Je bestelling bevat niet alle vereiste informatie, zorg ervoor dat je wacht tot je bestelling is verzonden voordat je een retour aanvraagt",
+    'next' => 'volgende',
+    'confirmation' => 'Komen deze gegevens overeen met u bestelling?',
+    'preview' => 'Preview van de Retour Portaal',
+    'yes' => 'Ja',
+    'no' => 'nee',
+    'empty' => 'Je moet minstens 1 product selecteren om verder te gaan',
+    'search' => 'Zoeken',
+    'ordernr' => 'Bestelling Nr',
+    'zipcode' => 'Post Code',
+    'disabled' => 'De retourportal is uitgeschakeld voor deze winkel',
+    'reCaptcha' => 'Google reCaptcha-validatie mislukt, probeer het opnieuw',
+];

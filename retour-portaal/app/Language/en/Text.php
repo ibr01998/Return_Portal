@@ -1,0 +1,27 @@
+<?php
+
+return[
+  'welcome' => 'Welcome to our Retour Portal',
+    'lang' => 'EN',
+    'validation' => 'TELL US ABOUT YOUR ORDER',
+    'product_selection'=> 'What would you like to return?',
+    'reason' => 'what is the reason of your return?',
+    'return_type' => 'How would you like to return?',
+    'quantity' => 'How many would you like to return?',
+    'mismatch' => 'The give order did not match the given zipcode',
+    'ordernr_error' => 'There is no Order that matches that Order nr.',
+    'late_error' => 'Your order is not eligible for return',
+    'shipping_error' => "Your order doesn't have all the required information, make sure you wait until your order has been shipped out before requesting a return",
+    'checkbox_error' => "You have to select an item for return!",
+    'next' => 'next',
+    'confirmation' => 'Do these details match your order?',
+    'preview' => 'Preview of the Return Portal',
+    'yes' => 'yes',
+    'no' => 'no',
+    'empty' => 'You must select at least 1 product to continue',
+    'search' => 'Search',
+    'ordernr' => 'Order Nr',
+    'zipcode' => 'Zip Code',
+    'disabled' => 'The return portal is disabled for this store',
+    'reCaptcha' => 'Google reCaptcha validation failed, please try again',
+];

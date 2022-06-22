@@ -1,0 +1,27 @@
+<?php
+
+return[
+    'welcome' => 'Willkommen in unserem Retour-Portal',
+    'lang' => 'DE',
+    'validation' => 'TEILEN SIE UNS IHRE BESTELLUNG MIT',
+    'product_selection'=> 'Was möchten Sie zurückgeben',
+    'reason' => 'Was ist der Grund für Ihre Rückkehr?',
+    'return_type' => 'Wie möchten Sie zurückkehren?',
+    'quantity' => 'Menge',
+    'mismatch' => 'Die angegebene Bestellung stimmte nicht mit der angegebenen Postleitzahl überein',
+    'ordernr_error' => 'Es gibt keine Bestellung, die dieser Bestellnummer entspricht.',
+    'late_error' => 'Ihre Bestellung kann nicht zurückgegeben werden',
+    'shipping_error' => "Ihre Bestellung enthält nicht alle erforderlichen Informationen. Stellen Sie sicher, dass Sie warten, bis Ihre Bestellung versandt wurde, bevor Sie eine Rücksendung anfordern",
+    'checkbox_error' => "Sie müssen einen Artikel für die Rückgabe auswählen!",
+    'next' => 'nächste',
+    'confirmation' => 'Stimmen diese Angaben mit Ihrer Bestellung überein?',
+    'preview' => 'Vorschau auf das Rücksendeportal',
+    'yes' => 'Jawohl',
+    'no' => 'Nein',
+    'empty' => 'Sie müssen mindestens 1 Produkt auswählen, um fortzufahren',
+    'search' => 'Suche',
+    'ordernr' => 'Bestell-Nr',
+    'zipcode' => 'Postleitzahl',
+    'disabled' => 'Das Rückgabeportal ist für diesen Shop deaktiviert',
+    'reCaptcha' => 'Google reCaptcha-Validierung fehlgeschlagen, bitte versuchen Sie es erneut',
+    ];

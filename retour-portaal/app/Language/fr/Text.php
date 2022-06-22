@@ -1,0 +1,26 @@
+<?php
+
+return[
+    'welcome' => 'Bienvenue sur notre portail de retour',
+    'lang' => 'FR',
+    'validation' => 'PARLEZ-NOUS DE VOTRE COMMANDE',
+    'product_selection'=> 'Quel(s) produit(s) souhaitez-vous retourner ?',
+    'reason' => 'quelle est la raison de votre retour?',
+    'return_type' => 'Comment voudriez-vous revenir?',
+    'quantity' => 'quantité',
+    'mismatch' => 'La commande donnée ne correspond pas au code postal indiqué',
+    'ordernr_error' => "Il n'y a pas de commande qui correspond à ce numéro de commande.",
+    'late_error' => 'Votre commande ne peut pas être retournée',
+    'shipping_error' => "Votre commande ne contient pas toutes les informations requises, assurez-vous d'attendre que votre commande ait été expédiée avant de demander un retour",
+    'next' => 'suivant',
+    'confirmation' => 'Ces informations correspondent-elles à votre commande?',
+    'preview' => 'Aperçu du portail de retour',
+    'yes' => 'oui',
+    'no' => 'non',
+    'empty' => 'Vous devez sélectionner au moins 1 produit pour continuer',
+    'search' => 'chercher',
+    'ordernr' => 'Numéro de commande',
+    'zipcode' => 'code postal',
+    'disabled' => 'Le portail de retour est désactivé pour cette boutique',
+    'reCaptcha' => 'La validation de Google reCaptcha a échoué, veuillez réessayer',
+];
